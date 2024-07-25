@@ -2,7 +2,7 @@
   "AccountName": "spert441",
   "AccountPassword": "zUzw502Ui1wxq9kT7LJOhA==",
   "RefreshToken": "eZ4AiW678b2y28F+YAoxuKkVpA+OQs99K3xklfEOnRz0RxoEeaROgAfPRYMn8C6+GQBtH67eqi1oY4nOrPxD+/oR1/GT96zrk/a0EcGMw+lVZ9lDiGKbozkfVSAQekJA5ZXgkOBrTeZjqP3wP4VJUX1rTjSjOAjBd0QtWl3MG72rC0+RKIKQgWv/ihrJ0Nyn5RfrZ/RAy8kmex99J9I2zvYTan2/TvJ38CPYpeArxtTo3o03pmfMd0KatLYbcYwDMTWnMJ+j1b0MM0MZsFf8uXUZBlTBncCEzwPlV9QrCPmcEdALzQdaZhuscriLKUBQlf0TpcN9teGliG4MQwL/yMIrsJkoeqP3KU/saa8r4wr0fuK5p8L6xKjcBYE66bQeF1Ww7MCO1omb8mKFdsTpUrn9udQk+4TL7XthlS8sGN9A8iVy6858Pgn5pNxM5yjyetLb6wEkw38B4QArITmPbleKLS6sYgpyJw00BFGzAFPD+P0EHvHPH/Dd0sedDqURtAcXPr/udh/IT+nKDxymo7xAZvuNSYuM+0H9/SLDiQsFcISOCh7mRCh5ZQDbgtrmB4YlelueDx7KCvTvQ0Yj9jP4nFlFVRFEJf3pUeE9S4lIcPFnKWsVyU9Rgbl2QuiOT5AoTe8MTuy1Rlo0mBwuhGO9E+VS4RB9vnNwulCC+Iw=",
-  "LastRefresh": "2024-07-25T20:10:57.0446793+00:00",
+  "LastRefresh": "2024-07-25T22:09:03.0837562+00:00",
   "Index": "ATEGG-UHZJ",
   "AesEncrypted": true,
   "AesIV": "4RyvAZfLCl+NZU9DoxRxfg==",
@@ -11,9 +11,6 @@
     1880830,
     1880832,
     1880837,
-    2050650,
-    2109300,
-    2109311,
-    2109313
+    2109300
   ]
 }
